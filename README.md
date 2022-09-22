@@ -3,13 +3,13 @@ Understanding the properties of products and outlets that play crucial roles in 
 Author: Alice Chen
 
 **Business problem:**
-Here is where you state the business problem you were trying to solve
+Maximizing the sales of products and determine Items that need sale boost.
 
-**Data:**
-Data can include source and high-level description (e.g. # obs)
 
 **Methods**
-Data preparation steps with explanation and justification for choices
+- Building a linear regression model
+- Building regression tree model
+- Using Histogram, Barplot, Boxplot, and Seaborn for exploration of relationshipp between groups.
 
 **Results**
 
