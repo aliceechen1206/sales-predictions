@@ -17,6 +17,7 @@ Comparing types of Supermarket/Grocery
 
 Majority of Outlet Type are Supermarket Type 1
 
+**Model**
 Comparing if when the establish year contributes to Item Outlet Sales
 ![Barplot](https://user-images.githubusercontent.com/110635256/191854268-fb6ccadd-9606-4777-84ea-292a1bcddac3.png)
 
