@@ -12,12 +12,15 @@ Data can include source and high-level description (e.g. # obs)
 Data preparation steps with explanation and justification for choices
 **Results**
 Comparing types of Supermarket/Grocery
-sample image
+![download](https://user-images.githubusercontent.com/110635256/191854185-84d62be8-347d-455b-b0eb-80dc3c90f190.png)
+
 
 Majority of Outlet Type are Supermarket Type 1
 
 Comparing if when the establish year contributes to Item Outlet Sales
 **Model**
+![Barplot](https://user-images.githubusercontent.com/110635256/191854268-fb6ccadd-9606-4777-84ea-292a1bcddac3.png)
+
 Majority of Item Outlet Sale is not dependent on Outlet Establishment Year
 
 Report the most important metrics
