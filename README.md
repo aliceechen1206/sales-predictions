@@ -40,7 +40,7 @@ Understanding the properties of products and outlets that play crucial roles in 
 | Decision Tree | 3027332338176.8823 | -3.32178924642665e+18 |
 
 # Recommendations
-With a negative R2 score, you can safely assume that the model is a very poor fit to the data and a super large RMSE will only confirm that.
+With a negative R2 score, you can safely assume that the model is a very poor fit to the data and a super large RMSE will only confirm that. So based on the metrics results I wouldn't suggest a Decision Tree model to this data.
 
 # For further information
 For any additional questions, please contact aliceechen1206@gmail.com
